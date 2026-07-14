@@ -9,10 +9,15 @@ Predict employee attrition using machine learning techniques.
 ## Project Structure
 
 ├── data/          # Raw and cleaned datasets
+
 ├── notebooks/     # Jupyter notebooks
+
 ├── src/           # Reusable Python scripts
+
 ├── app/           # Streamlit application
+
 ├── report/        # Final report and screenshots
+
 └── README.md
 
 ## Progress
