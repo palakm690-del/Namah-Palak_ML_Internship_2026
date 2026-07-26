@@ -1,0 +1,10 @@
+# core stack for this project
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xgboost
+shap
+joblib

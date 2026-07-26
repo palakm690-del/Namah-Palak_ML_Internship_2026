@@ -2,6 +2,11 @@
 __pycache__/
 *.pyc
 
+# virtual environments
+venv/
+.venv/
+env/
+
 # Jupyter
 .ipynb_checkpoints/
 
@@ -12,5 +17,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Large temporary files
+# env / secrets
+.env
+
+# logs and temp files
+*.log
 *.tmp
